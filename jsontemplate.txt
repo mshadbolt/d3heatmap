@@ -1,0 +1,23 @@
+[
+    {
+        "Loc1": "idnumber",
+        "contig_1": "supercont#.#",
+        "Loc2": [
+            "idnumber1",
+            "idnumber2",
+            ...
+        ],
+        "contig_2": [
+            "supercont#.#",
+            "supercont#.#",
+            ...
+        ],
+        "ALD1.2": [
+            0.3453,
+            0.8274,
+            ...
+        ]
+    }
+    {...}
+]
+            
